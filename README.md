@@ -25,7 +25,7 @@ Actualmente estoy buscando una oportunidad para incorporarme a un equipo donde p
 ## 🚀 ¿Buscás un backend developer con ganas de crecer y hacer las cosas bien?
 
 📬 **¡Escribime!** Estoy abierto a charlar sobre oportunidades, desafíos o simplemente intercambiar ideas.  
-Podés contactarme por [LinkedIn](www.linkedin.com/in/agustinchoque) o ver mis proyectos acá en GitHub.
+Podés contactarme por [LinkedIn](https://www.linkedin.com/in/agustinchoque) o ver mis proyectos acá en GitHub.
 
 ---
 <!--
