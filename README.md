@@ -16,7 +16,7 @@ Actualmente estoy buscando una oportunidad para incorporarme a un equipo donde p
 
 ## ⚙️ Tecnologías que domino
 
-**Backend:** TypeScript · Node.js · Express · NestJS · PostgreSQL · Docker
+**Backend:** TypeScript · Node.js · Express · NestJS · PostgreSQL · Docker  
 **Frontend:** React · HTML · CSS  
 **Otros:** Git · APIs REST · Scrum  
     
